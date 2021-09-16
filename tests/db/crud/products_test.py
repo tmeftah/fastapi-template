@@ -1,4 +1,2 @@
-
-
-def test_get_all():    
-    assert '' == ''
+def test_get_all():
+    assert "" == ""

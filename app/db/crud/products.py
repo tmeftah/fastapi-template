@@ -1,6 +1,5 @@
 from sqlalchemy.orm import Session
 from app.db.models.products import Item
-from app.db.database import MyQuery
 
 
 def get_all(db: Session):
